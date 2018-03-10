@@ -1,0 +1,19 @@
+{
+  "name": "js-com-tdd",
+  "version": "1.0.0",
+  "description": "Biblioteca do curso Js com TDD na prática",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/mntoledo/js-tdd-course.git)"
+  },
+  "keywords": [
+    "js",
+    "tdd"
+  ],
+  "author": "Marcelo Toledo <marcelo.toledo@fatec.sp.gov.br>",
+  "license": "MIT"
+}
